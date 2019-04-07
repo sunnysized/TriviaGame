@@ -1,0 +1,44 @@
+body { 
+    min-height: 100vh;
+    background: url("../images/ari1.jpg");
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+}
+
+h1,
+h2,
+h3 {
+    font-family: normal, serif;
+    font-size: 40px;
+    color: white;
+	padding: 35px;
+    text-align: center;
+}
+
+.answer,
+#timer {
+	font-weight: 900;
+}
+
+#start {
+	color: black;
+}
+
+.choices {
+	text-align: center;
+	border: groove 2px black;
+	border-radius: 5%;
+	margin: 0 35%;
+}
+
+.choices:hover {
+	color: white;
+}
+
+#gameScreen {
+    
+}
+
+.shadow {
+}
