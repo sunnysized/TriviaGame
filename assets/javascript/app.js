@@ -107,10 +107,12 @@ $(document).ready(function() {
 			correctGuesses + "</strong> right.</p>" + 
 			"<p>You got <strong>" + incorrectGuesses + "</strong> wrong.</p>");
 		$("#gameScreen").append("<h1 id='start'>Play Again!</h1>");
+        
         var bottomText = "Play Again";
         $("#bottomText").html(bottomText);
-		gameReset();
-		$("#start").click(nextQuestion);
+        
+        gameReset();
+        $("#start").click(nextQuestion);
 	}
 
 	function timer() {
