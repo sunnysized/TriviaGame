@@ -11,13 +11,13 @@ $(document).ready(function() {
 	    question: "How many songs are on the Thank U, Next track list?",
 	    choices: ["10", "12", "13", "15"],
 	    correctAnswer: "12",
-	    image: "<img src='assets/images/ari10.jpg' class='img-circle shadow'>"
+	    image: "<img src='assets/images/ari10.JPG' class='img-circle shadow'>"
 	  }, 
 	  {
 	    question: "Which of the following songs did NOT hit #1 on the billboards hot 100?",
 	    choices: ["thank u, next", "7 rings", "break up with your girlfriend", "NASA"],
 	    correctAnswer: "NASA",
-	    image: "<img src='assets/images/ari2.jpg' class='img-circle shadow'>"
+	    image: "<img src='assets/images/ari2.JPG' class='img-circle shadow'>"
 	  },
 	  {
 	    question: "Which of the following was NOT a movie featured in the thank u, next music video?",
@@ -29,13 +29,13 @@ $(document).ready(function() {
 	    question: "Which song contains the lyrics 'I see it, I like it, I want it, I got it' ?",
 	    choices: ["7 rings", "fake smile", "in my head", "bad idea"],
 	    correctAnswer: "7 rings",
-	    image: "<img src='assets/images/ari4.jpg' class='img-circle shadow'>"
+	    image: "<img src='assets/images/ari4.JPG' class='img-circle shadow'>"
 	  },
 	  {
 	    question: "Which song is the longest on the thank u, next album?",
 	    choices: ["ghostin", "bad idea", "bloodline", "thank u, next"],
 	    correctAnswer: "ghostin",
-	    image: "<img src='assets/images/ari5.jpg' class='img-circle shadow'>"
+	    image: "<img src='assets/images/ari5.JPG' class='img-circle shadow'>"
 	  }];
 	  
 
